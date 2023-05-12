@@ -6,14 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Broveer's Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This website is under construction. Please come back in a few days.
+    <br>Please go to my <a href="https://www.youtube.com/@Broveer">YouTube Channel</a> till this website is complete.
+    <br>Thank You
         </p>
       </main>
 
